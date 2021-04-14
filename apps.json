@@ -1,0 +1,44 @@
+{
+    "programs": [
+      {
+        "category": "Boston",
+        "links": [
+          {
+            "name": "Discord",
+            "url": "https://discord.com",
+            "icon": "message-video"
+          },
+          {
+            "name": "Gmail",
+            "url": "http://gmail.com",
+            "icon": "message-video"
+          },
+          {
+            "name": "Slack",
+            "url": "https://slack.com/signin",
+            "icon": "message-video"
+          }
+        ]
+      },
+      {
+        "category": "WMATA",
+        "links": [
+          {
+            "name": "Discord",
+            "url": "https://discord.com",
+            "icon": "message-video"
+          },
+          {
+            "name": "Gmail",
+            "url": "http://gmail.com",
+            "icon": "message-video"
+          },
+          {
+            "name": "Slack",
+            "url": "https://slack.com/signin",
+            "icon": "message-video"
+          }
+        ]
+      }
+    ]
+  }
