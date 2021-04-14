@@ -57,18 +57,20 @@
             <h3>Applications</h3>
             <div id="apps_loop">
                 {{#programs}}
-                    <h4>{{category}}</h4>
-                        {{#links}}
-                    <div class="apps_item">
-                        <div class="apps_icon">
-                            <span class="iconify icon" data-icon="mdi-{{icon}}"></span>
-                        </div>
-                        <div class="apps_text">
-                            <a href="https://{{url}}">{{name}}</a>
-                            <span id="app-address">{{url}}</span>
-                        </div>
-                    </div>
-                    {{/links}}
+                    <section>
+                        <h4>{{category}}</h4>
+                            {{#links}}
+                            <div class="apps_item">
+                                <div class="apps_icon">
+                                    <span class="iconify icon" data-icon="mdi-{{icon}}"></span>
+                                </div>
+                                <div class="apps_text">
+                                    <a href="{{url}}">{{name}}</a>
+                                    <span id="app-address">{{url}}</span>
+                                </div>
+                            </div>
+                        {{/links}}
+                    </section>
                 {{/programs}}                         
             </div>
             </script>

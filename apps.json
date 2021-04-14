@@ -3,7 +3,7 @@
       {
         "category": "Boston",
         "links": [
-          {"name":"Bazarr","url":"subs.example.com","icon":"message-video"},
+          {"name":"Bazarr","url":"https://subs.example.commmmmmmmmmmmmmmmmmmmmmmmmmmm","icon":"message-video"},
           {"name":"CloudCMD","url":"files.example.com","icon":"folder-multiple-outline"},
           {"name":"Cockpit","url":"cp.example.com","icon":"airplane"},
           {"name":"Feedbin","url":"rss.example.com","icon":"rss"},
